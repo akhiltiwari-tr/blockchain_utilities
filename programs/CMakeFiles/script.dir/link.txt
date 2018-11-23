@@ -1,0 +1,1 @@
+/usr/bin/g++   -std=c++11 -Wall -fno-builtin-memcmp  -rdynamic CMakeFiles/script.dir/script.cpp.o  -o script 
