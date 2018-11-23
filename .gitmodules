@@ -1,0 +1,3 @@
+[submodule "fc"]
+	path = fc
+	url = /home/rails/files/projects/blockchain_utilities/libraries/fc/
